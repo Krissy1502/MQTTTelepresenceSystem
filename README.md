@@ -18,3 +18,13 @@ If you use this system in an academic context, please use this DOI for citation:
  keywords = {MQTT Protocol, Remote Collaboration, Mixed Reality},
 }
 ```
+# Getting Started
+
+## Features
+
+## Setup
+Requirements: Unity 2017.x
+
+# TODO's
+
+- Adding all the stuff
