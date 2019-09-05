@@ -25,6 +25,14 @@ If you use this system in an academic context, please use this DOI for citation:
 ## Setup
 Requirements: Unity 2017.x
 
+### License
+
+Released under the xxx
+
+The M2MqttUnity libary is createaded by [gpvigano]{https://github.com/gpvigano/M2MqttUnity} is licensed under [MIT License](https://github.com/gpvigano/M2MqttUnity/blob/master/LICENSE.txt)
+
+The included (slightly modified) [M2MQTT](https://github.com/eclipse/paho.mqtt.m2mqtt) library is licensed under [Eclipse Public License 1.0](https://github.com/eclipse/paho.mqtt.m2mqtt/blob/master/LICENSE).
+
 # TODO's
 
 - Adding all the stuff
